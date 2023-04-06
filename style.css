@@ -1,0 +1,23 @@
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+    width:80% ;
+    background-color: rgb(27, 105, 105);
+    }
+    
+    h1{
+        text-align: center;
+    }
+    th,td{
+        border: 1px solid rgb(41, 1, 1);
+        border-collapse: collapse;
+        font-size: 20px;
+        text-align: center;
+        color: rgba(245, 245, 245, 0.959);
+    }
+    #text_title{
+       color: rgb(27, 105, 105);
+    }
+    .video_title{
+      color: rgb(27, 105, 105);
+    }
